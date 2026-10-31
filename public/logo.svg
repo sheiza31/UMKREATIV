@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" fill="none">
+  <!-- Hard Shadow -->
+  <rect x="12" y="12" width="76" height="76" rx="20" fill="#111111" />
+  <!-- Main Badge -->
+  <rect x="8" y="8" width="76" height="76" rx="20" fill="#FFD93D" stroke="#111111" stroke-width="5" stroke-linejoin="round" />
+  
+  <!-- Stylized U Letter with Neo-Brutalist Character -->
+  <path d="M30 26 V52 C30 63 38 71 50 71 C62 71 70 63 70 52 V26" stroke="#111111" stroke-width="8" stroke-linecap="round" stroke-linejoin="round" />
+  <path d="M30 26 V52 C30 63 38 71 50 71 C62 71 70 63 70 52 V26" stroke="#1FB5A3" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" />
+
+  <!-- Creative Spark / Star in the center-top -->
+  <path d="M50 33 L52.5 40 L60 42.5 L52.5 45 L50 52 L47.5 45 L40 42.5 L47.5 40 Z" fill="#FF6B9D" stroke="#111111" stroke-width="2" />
+  
+  <!-- Little highlight dot -->
+  <circle cx="28" cy="24" r="3" fill="#FFFFFF" stroke="#111111" stroke-width="1.5" />
+</svg>
+
